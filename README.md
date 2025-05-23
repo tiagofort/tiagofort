@@ -24,7 +24,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png" width="100%" alt="Coding Illustration"/>
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3HmReJzOMLaT4NGiTOT0co&ust=1748118111160000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjytcq1uo0DFQAAAAAdAAAAABAL" width="100%" alt="Coding Illustration"/>
     </td>
   </tr>
 </table>
