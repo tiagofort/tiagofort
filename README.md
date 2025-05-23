@@ -46,13 +46,11 @@
 ---
 
 ## 📂 Featured Projects
-<!--
+
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| [**Finance API**](https://github.com/yourusername/finance-api) | RESTful API for managing expenses and income | NestJS, MongoDB |
-| [**Vue Dashboard**](https://github.com/yourusername/vue-dashboard) | Modern dashboard with interactive charts | Vue.js, Chart.js |
-| [**Clonify (Spotify Clone)**](https://github.com/yourusername/clonify) | Frontend app inspired by Spotify | React, TypeScript |
--->
+| [** APP KNOWLEDGE AND ATTITUDES OF MEDICAL STUDENTS REGARDING SUICIDE**](https://github.com/tiagofort/ucdb) | APP built using React, vanilla CSS, and JavaScript
+| [**API KNOWLEDGE AND ATTITUDES OF MEDICAL STUDENTS REGARDING SUICIDE**](https://github.com/tiagofort/ucbd_api) | API built using Nodejs, MongoDB, JWT
 ---
 
 ## 📫 Contact
