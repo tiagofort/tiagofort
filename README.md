@@ -49,8 +49,8 @@
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| [** APP KNOWLEDGE AND ATTITUDES OF MEDICAL STUDENTS REGARDING SUICIDE**](https://github.com/tiagofort/ucdb) | APP built using React, vanilla CSS, and JavaScript
-| [**API KNOWLEDGE AND ATTITUDES OF MEDICAL STUDENTS REGARDING SUICIDE**](https://github.com/tiagofort/ucbd_api) | API built using Nodejs, MongoDB, JWT
+| [** APP KNOWLEDGE AND ATTITUDES OF MEDICAL STUDENTS REGARDING SUICIDE**](https://github.com/tiagofort/ucdb) | APP Knowledge research application on suicide and agents. | JavaScript and REACT
+| [**API KNOWLEDGE AND ATTITUDES OF MEDICAL STUDENTS REGARDING SUICIDE**](https://github.com/tiagofort/ucbd_api) | API Knowledge research application on suicide and agents | using Nodejs, MongoDB and JWT
 ---
 
 ## 📫 Contact
