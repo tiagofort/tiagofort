@@ -47,7 +47,7 @@
 
 ## 📂 Featured Projects
 
-| | Project | Description | Technologies |
+| - | Project | Description | Technologies |
 |--------|-------------|--------------|
 | Frontend | [** APP KNOWLEDGE AND ATTITUDES OF MEDICAL STUDENTS REGARDING SUICIDE **](https://github.com/tiagofort/ucdb) | APP Knowledge research application on suicide and causative agents. | JavaScript, REACT and CSS
 | Backend | [** API KNOWLEDGE AND ATTITUDES OF MEDICAL STUDENTS REGARDING SUICIDE **](https://github.com/tiagofort/ucbd_api) | API Knowledge research application on suicide and causative agents | Nodejs and MongoDB
