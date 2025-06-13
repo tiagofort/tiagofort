@@ -60,6 +60,7 @@
 |----------|------------|-------------|--------------|
 | Frontend | [**APP KNOWLEDGE AND ATTITUDES OF MEDICAL STUDENTS REGARDING SUICIDE**](https://github.com/tiagofort/ucdb) | APP Knowledge research application on suicide and causative agents. | JavaScript, REACT and CSS |
 | Backend  | [**API KNOWLEDGE AND ATTITUDES OF MEDICAL STUDENTS REGARDING SUICIDE**](https://github.com/tiagofort/ucbd_api) | API Knowledge research application on suicide and causative agents | Nodejs and MongoDB |
+| Frontend  | [**ADM PAGE KNOWLEDGE AND ATTITUDES OF MEDICAL STUDENTS REGARDING SUICIDE**](https://github.com/tiagofort/ucdb-admin) | Admin page Knowledge research application on suicide and causative agents | REACT, JavaScript and Tailwind|
 
 ## 📫 Contact
 
