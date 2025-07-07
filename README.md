@@ -89,6 +89,9 @@
       <td>REACT, JavaScript and Tailwind</td>
     </tr>
     <tr>
+      <td colspan="4" style="height: 2px; background-color: black;"> Complete project including Backend and Frontend - Luna Crystals (This section is still under development) </td>
+    </tr>
+    <tr>
       <td>Frontend</td>
       <td><a href="https://github.com/tiagofort/luna-app"><strong>APP LUNA CRYSTALS (CRYSTAL JEWELLERY STORE)</strong></a></td>
       <td>E-commerce application for a jewelry store focusing on crystals.</td>
