@@ -89,7 +89,7 @@
       <td>REACT, JavaScript and Tailwind</td>
     </tr>
     <tr>
-      <td colspan="4" style="height: 2px; background-color: black;"> Complete project including Backend and Frontend - Luna Crystals (This section is still under development) </td>
+      <td colspan="4" style="height: 2px; background-color: black;"> Complete project including Backend and Frontend - Luna Crystals (<b>This section is still under development</b>) </td>
     </tr>
     <tr>
       <td>Frontend</td>
