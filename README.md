@@ -66,7 +66,7 @@
       <th>Technologies</th>
     </tr>
     <tr>
-      <td colspan="4" style="height: 2px; background-color: black;"></td>
+      <td colspan="4" style="height: 2px; background-color: black;"> Complete project including Backend and Frontend - KNOWLEDGE AND ATTITUDES OF MEDICAL STUDENTS REGARDING SUICIDE. </td>
     </tr>
   </thead>
   <tbody>
