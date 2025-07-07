@@ -57,12 +57,45 @@
 
 ## 📂 Featured Projects
 
-| Type     | Project | Description | Technologies |
-|----------|------------|-------------|--------------|
-| Frontend | [**APP KNOWLEDGE AND ATTITUDES OF MEDICAL STUDENTS REGARDING SUICIDE**](https://github.com/tiagofort/ucdb) | APP Knowledge research application on suicide and causative agents. | JavaScript, REACT and CSS |
-| Backend  | [**API KNOWLEDGE AND ATTITUDES OF MEDICAL STUDENTS REGARDING SUICIDE**](https://github.com/tiagofort/ucbd_api) | API Knowledge research application on suicide and causative agents | Nodejs and MongoDB |
-| Frontend  | [**ADM PAGE KNOWLEDGE AND ATTITUDES OF MEDICAL STUDENTS REGARDING SUICIDE**](https://github.com/tiagofort/ucdb_admin) | ADMIN page Knowledge research application on suicide and causative agents | REACT, JavaScript and Tailwind|
-| Frontend  | [**APP LUNA CRYSTALS (CRYSTAL JEWELLERY STORE)**](https://github.com/tiagofort/luna-app) | E-commerce application for a jewelry store focusing on crystals. | REACT, JavaScript and Tailwind|
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Technologies</th>
+    </tr>
+    <tr>
+      <td colspan="4" style="height: 2px; background-color: black;"></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Frontend</td>
+      <td><a href="https://github.com/tiagofort/ucdb"><strong>APP KNOWLEDGE AND ATTITUDES OF MEDICAL STUDENTS REGARDING SUICIDE</strong></a></td>
+      <td>APP Knowledge research application on suicide and causative agents.</td>
+      <td>JavaScript, REACT and CSS</td>
+    </tr>
+    <tr>
+      <td>Backend</td>
+      <td><a href="https://github.com/tiagofort/ucbd_api"><strong>API KNOWLEDGE AND ATTITUDES OF MEDICAL STUDENTS REGARDING SUICIDE</strong></a></td>
+      <td>API Knowledge research application on suicide and causative agents.</td>
+      <td>Nodejs and MongoDB</td>
+    </tr>
+    <tr>
+      <td>Frontend</td>
+      <td><a href="https://github.com/tiagofort/ucdb_admin"><strong>ADM PAGE KNOWLEDGE AND ATTITUDES OF MEDICAL STUDENTS REGARDING SUICIDE</strong></a></td>
+      <td>ADMIN page Knowledge research application on suicide and causative agents.</td>
+      <td>REACT, JavaScript and Tailwind</td>
+    </tr>
+    <tr>
+      <td>Frontend</td>
+      <td><a href="https://github.com/tiagofort/luna-app"><strong>APP LUNA CRYSTALS (CRYSTAL JEWELLERY STORE)</strong></a></td>
+      <td>E-commerce application for a jewelry store focusing on crystals.</td>
+      <td>REACT, JavaScript and Tailwind</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 📫 Contact
 
