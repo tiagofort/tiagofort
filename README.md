@@ -104,7 +104,7 @@
 
 - 🌐 [yourwebsite.dev](https://yourwebsite.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tiago-fortaleza-gai/)
-- 📧 [Email](tiagofortalezag@gmail.com)
+- 📧 tiagofortalezag@gmail.com
 
 ---
 
