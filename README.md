@@ -60,16 +60,19 @@
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
     <tr>
+      <td colspan="4" style="height: 2px; background-color: black;"> All Projects </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="4" style="height: 2px; background-color: black;"> Complete project including Backend and Frontend - KNOWLEDGE AND ATTITUDES OF MEDICAL STUDENTS REGARDING SUICIDE. </td>
+    </tr>
+    <tr>
       <th>Type</th>
       <th>Project</th>
       <th>Description</th>
       <th>Technologies</th>
     </tr>
-    <tr>
-      <td colspan="4" style="height: 2px; background-color: black;"> Complete project including Backend and Frontend - KNOWLEDGE AND ATTITUDES OF MEDICAL STUDENTS REGARDING SUICIDE. </td>
-    </tr>
-  </thead>
-  <tbody>
     <tr>
       <td>Frontend</td>
       <td><a href="https://github.com/tiagofort/ucdb"><strong>APP KNOWLEDGE AND ATTITUDES OF MEDICAL STUDENTS REGARDING SUICIDE</strong></a></td>
@@ -92,6 +95,12 @@
       <td colspan="4" style="height: 2px; background-color: black;"> Complete project including Backend and Frontend - Luna Crystals (<b>This section is still under development</b>) </td>
     </tr>
     <tr>
+      <th>Type</th>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Technologies</th>
+    </tr>
+    <tr>
       <td>Frontend</td>
       <td><a href="https://github.com/tiagofort/luna-app"><strong>APP LUNA CRYSTALS (CRYSTAL JEWELLERY STORE)</strong></a></td>
       <td>E-commerce application for a jewelry store focusing on crystals.</td>
@@ -99,6 +108,12 @@
     </tr>
     <tr>
       <td colspan="4" style="height: 2px; background-color: black;"> Other Projects </td>
+    </tr>
+    <tr>
+      <th>Type</th>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Technologies</th>
     </tr>
     <td>Hybrid Application</td>
       <td><a href="https://github.com/tiagofort/ptopopulator-"><strong>PTO POPULATOR</strong></a></td>
