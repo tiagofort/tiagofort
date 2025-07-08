@@ -97,6 +97,13 @@
       <td>E-commerce application for a jewelry store focusing on crystals.</td>
       <td>REACT, JavaScript and Tailwind</td>
     </tr>
+    <tr>
+      <td colspan="4" style="height: 2px; background-color: black;"> Other Projects </td>
+    </tr>
+    <td>Hybrid Application</td>
+      <td><a href="https://github.com/tiagofort/ptopopulator-"><strong>PTO POPULATOR</strong></a></td>
+      <td>Application to simplify the process of transferring data between a system and Google Sheets</td>
+    <td>Python, Streamlit, Gspread, Oauth2client and Gunicorn</td>
   </tbody>
 </table>
 
