@@ -107,6 +107,12 @@
       <td>REACT, JavaScript and Tailwind</td>
     </tr>
     <tr>
+      <td>Backend</td>
+      <td><a href="https://github.com/tiagofort/luna-app"><strong>API LUNA CRYSTALS (CRYSTAL JEWELLERY STORE)</strong></a></td>
+      <td>E-commerce application for a jewelry store focusing on crystals.</td>
+      <td>Nodejs and MongoDB</td>
+    </tr>
+    <tr>
       <td colspan="4" style="height: 2px; background-color: black;"> Other Projects </td>
     </tr>
     <tr>
