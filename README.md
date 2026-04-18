@@ -54,6 +54,11 @@
 <p align="left">
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+
+## 🚀 DevOps / CI-CD
+<p align="left">
+ <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
 ---
 
 ## 📂 Featured Projects
