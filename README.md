@@ -120,10 +120,10 @@
     </tr>
     <tr>
     <tr>
-      <td>Backend</td>
-      <td><a href="https://github.com/tiagofort/adm-APP-exhibition"><strong>API LUNA CRYSTALS (CRYSTAL JEWELLERY STORE)</strong></a></td>
+      <td>Frontend</td>
+      <td><a href="https://github.com/tiagofort/adm-APP-exhibition"><strong>ADM LUNA CRYSTALS (CRYSTAL JEWELLERY STORE)</strong></a></td>
       <td>E-commerce application for a jewelry store focusing on crystals.</td>
-      <td>Nodejs and MongoDB</td>
+      <td>Vue3, Nuxt3, JavaScript and Tailwind</td>
     </tr>
     <tr>
       <td colspan="4" style="height: 2px; background-color: black;"> Other Projects </td>
