@@ -56,8 +56,14 @@
 </p>
 
 ## 🚀 DevOps / CI-CD
+
 <p align="left">
- <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CI%2FCD-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Automated%20Deployments-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cache%20Invalidation-FF4F8B?style=for-the-badge&logo=fastly&logoColor=white" />
 </p>
 ---
 
@@ -70,6 +76,21 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td colspan="4" style="height: 2px; background-color: black;"> Full Stack portfolio project with Nuxt 3, AWS deployment, CloudFront CDN, and CI/CD pipeline using GitHub Actions. </td>
+    </tr>
+    <tr>
+      <th>Type</th>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Technologies</th>
+    </tr>
+    <tr>
+      <td>Frontend</td>
+      <td><a href="https://github.com/tiagofort/tiago-professional-page"><strong>My personal portifolio </strong></a></td>
+      <td>My personal portifolio page talking a bit about me, my skills and projects.</td>
+      <td>JavaScript, Nuxt 3 and tailwind </td>
+    </tr>
     <tr>
       <td colspan="4" style="height: 2px; background-color: black;"> Complete project including Backend and Frontend - KNOWLEDGE AND ATTITUDES OF MEDICAL STUDENTS REGARDING SUICIDE. </td>
     </tr>
