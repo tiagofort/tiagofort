@@ -87,7 +87,7 @@
     </tr>
     <tr>
       <td>Frontend</td>
-      <td><a href="https://github.com/tiagofort/tiago-professional-page"><strong>My personal portifolio </strong></a></td>
+      <td><a href="https://github.com/tiagofort/tiago-professional-page"><strong>MY PERSONAL PORTIFOLIO </strong></a></td>
       <td>My personal portifolio page talking a bit about me, my skills and projects.</td>
       <td>JavaScript, Nuxt 3 and tailwind </td>
     </tr>
